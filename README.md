@@ -1,6 +1,6 @@
 <!--markdown tutorial-->
 
-Anisul Islam<br/>
+Selim Uddin<br/>
 This is second line
 
 ---
@@ -17,7 +17,7 @@ This is second line
 
 ###### Selim Uddin
 
-<p>This is anisul islam. I am 31 years old. I just finished my masters at Tampere University</p>
+<p>This is Selim uddin, working as financaial advisor</p>
 
 <br/>
 
@@ -124,7 +124,7 @@ http://www.studywithanis.com
 ### image sytax
 
 <!-- ![profile](./images/me.jpg) -->
-<img src="./images/me.JPG" width="400" title="profile image"/>
+<img src="./images/me.jpg" width="400" title="profile image"/>
 😊
 
 <br/>
